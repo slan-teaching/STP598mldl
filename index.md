@@ -1,14 +1,12 @@
-## Welcome to STP 598 SpatioTemporal Analysis
+## Welcome to STP 598 Machine Learning \& Deep Learning 
 
-This course focuses on modern techniques in analyzing spatiotemporal data. It consists of two major parts: spatial statistics and time series. The topics will in- clude spatial process, areal data models, hierarchical spatial modeling, time series regression, ARMA/ARIMA models, Gaussian process, and state-space models.
+This course focuses on foundations of statistical learning and modern techniques in deep learning. The topics will cover (penalized) linear regression, generalized linear regression, classification and clustering, Gaussian process, Deep neural networks, convolutional neural networks, recurrent neural networks, and auto-encoders, etc.
 
 ### Announcements:
 
+* Welcome! Masks are required in classroom. If you cannot attend in person for some reason, use the [zoom](https://asu.zoom.us/j/8055899886).
+
 * All the video recordings can now be found at `canvas -> zoom -> could recordings`. I will not post it at `modules` as the space is limited.
-
-* Homework 4 is available on both canvas and course website. **Due 11:59pm Monday 11/30/2020**.
-
-* Final is avaiable on both canvas and the course website. Due **11:59pm, Tuesday 12/08/2020**.
 
 ### Syllabus
 
