@@ -12,7 +12,7 @@ This course focuses on modern techniques in analyzing spatiotemporal data. It co
 
 ### Syllabus
 
-[syllabus](https://github.com/slan-teaching/STP598sta/blob/master/syllabus_STP598sta.pdf)
+[syllabus](https://github.com/slan-teaching/STP598mldl/blob/main/syllabus_STP598mldl.pdf)
 
 ### Lecture Notes
 
