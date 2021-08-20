@@ -4,7 +4,7 @@ This course focuses on foundations of statistical learning and modern techniques
 
 ### Announcements:
 
-* Welcome! Masks are required in classroom. If you cannot attend in person for some reason, use the [zoom](https://asu.zoom.us/j/8055899886).
+* Welcome! Masks are required in classroom. If you cannot attend in person for some reason, use the [zoom](https://asu.zoom.us/j/85457478422?pwd=cE1JTmxHMlNmT05xNGNUby9vcGswQT09).
 
 * All the video recordings can now be found at `canvas -> zoom -> could recordings`. I will not post it at `modules` as the space is limited.
 
