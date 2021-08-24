@@ -16,7 +16,7 @@ This course focuses on foundations of statistical learning and modern techniques
 
 **How to download** Open terminal, go to any folder you want to store on your computer, type: `git clone https://github.com/slan-teaching/STP598sta.git` (only once); you can download more lectures in future by `git pull` in the terminal under the folder `STP598sta` (use `cd` to go to this folder). If you are not familiar with GitHub, google 'github clone'.
 
-[lecture 1](https://github.com/slan-teaching/STP598sta/blob/master/lecture_notes/STP598sta_lecture1.pdf)
+[lecture 1](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_Intro.pdf)
 
 [lecture 2](https://github.com/slan-teaching/STP598sta/blob/master/lecture_notes/STP598sta_lecture2.pdf)
 
