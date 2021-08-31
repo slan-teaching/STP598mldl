@@ -20,7 +20,7 @@ This course focuses on foundations of statistical learning and modern techniques
 
 [Intro2PythonNotebook](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/Lec13-Getting-started-with-iPython-Notebook.pdf)
 
-[lecture 2](https://github.com/slan-teaching/STP598sta/blob/master/lecture_notes/STP598sta_lecture2.pdf)
+[lecture 2](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect2reg.pdf)
 
 [lecture 3](https://github.com/slan-teaching/STP598sta/blob/master/lecture_notes/STP598sta_lecture3.pdf)
 
