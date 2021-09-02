@@ -22,6 +22,8 @@ This course focuses on foundations of statistical learning and modern techniques
 
 [lecture 2](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect2reg.pdf)
 
+[demos_linreg](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect2_reg)
+
 [lecture 3](https://github.com/slan-teaching/STP598sta/blob/master/lecture_notes/STP598sta_lecture3.pdf)
 
 [demo 1 (lect 2 & 3)](https://github.com/slan-teaching/STP598sta/blob/master/demos/STP598sta_krigCAR.html)
