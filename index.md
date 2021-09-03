@@ -6,7 +6,9 @@ This course focuses on foundations of statistical learning and modern techniques
 
 * Welcome! Masks are required in classroom. If you cannot attend in person for some reason, use the [zoom](https://asu.zoom.us/j/85457478422?pwd=cE1JTmxHMlNmT05xNGNUby9vcGswQT09).
 
-* All the video recordings can now be found at `canvas -> zoom -> could recordings`. I will not post it at `modules` as the space is limited.
+* All the video recordings can now be found at `canvas -> zoom -> could recordings`.
+
+* Written assignment 1 is available on canvas, due **11:59pm Sunday Sept. 12, 2021**. The python notebook to generate the pdf file is also provided as a template.
 
 ### Syllabus
 
@@ -52,7 +54,7 @@ This course focuses on foundations of statistical learning and modern techniques
 
 ### Homework Assignments
 
-[Homework 1](https://github.com/slan-teaching/STP598sta/blob/master/Homework/STP598sta_hw1.pdf)
+[Written 1](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written1.pdf).   [Notebook](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written1.ipynb)
 
 [Homework 2](https://github.com/slan-teaching/STP598sta/blob/master/Homework/STP598sta_hw2.pdf);    [RMW](https://github.com/slan-teaching/STP598sta/blob/master/Homework/RWM.R);    [slice](https://github.com/slan-teaching/STP598sta/blob/master/Homework/slice.R);    [example](https://github.com/slan-teaching/STP598sta/blob/master/Homework/BayesMCMC.html)
 
