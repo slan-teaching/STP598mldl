@@ -8,7 +8,7 @@ This course focuses on foundations of statistical learning and modern techniques
 
 * All the video recordings can now be found at `canvas -> zoom -> could recordings`.
 
-* Written assignment 1 is available on canvas, due **11:59pm Sunday Sept. 12, 2021**. The python notebook to generate the pdf file is also provided as a template.
+* Coding assignment 2 is available on canvas, due **11:59pm Friday Sept. 24, 2021**. Please do NOT modify notebook cells or change the filename!
 
 ### Syllabus
 
