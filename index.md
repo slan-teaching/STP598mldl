@@ -8,7 +8,9 @@ This course focuses on foundations of statistical learning and modern techniques
 
 * All the video recordings can now be found at `canvas -> zoom -> could recordings`.
 
-* Coding assignment 2 is available on canvas, due **11:59pm Friday Sept. 24, 2021**. Please do NOT modify notebook cells or change the filename!
+* Coding assignment 2 is available on mathds, due **11:59pm Friday Sept. 24, 2021**. Please do NOT modify notebook cells or change the filename!
+
+* Writtin assignment 2 is available on canvas, due **11:59pm Sunday Sept. 26, 2021**.
 
 ### Syllabus
 
@@ -56,7 +58,7 @@ This course focuses on foundations of statistical learning and modern techniques
 
 [Written 1](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written1.pdf).   [Notebook](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written1.ipynb)
 
-[Homework 2](https://github.com/slan-teaching/STP598sta/blob/master/Homework/STP598sta_hw2.pdf);    [RMW](https://github.com/slan-teaching/STP598sta/blob/master/Homework/RWM.R);    [slice](https://github.com/slan-teaching/STP598sta/blob/master/Homework/slice.R);    [example](https://github.com/slan-teaching/STP598sta/blob/master/Homework/BayesMCMC.html)
+[Written 2](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written2.pdf).    [Notebook](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written2.ipynb)
 
 [Homework 3](https://github.com/slan-teaching/STP598sta/blob/master/Homework/STP598sta_hw3.pdf)
 
