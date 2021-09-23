@@ -38,7 +38,7 @@ This course focuses on foundations of statistical learning and modern techniques
 
 [lecture 5](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect5tree.pdf)
 
-[demos tree](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect5_tree)
+[demos_tree](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect5_tree)
 
 [lecture 6](https://github.com/slan-teaching/STP598sta/blob/master/lecture_notes/STP598sta_lecture6.pdf)
 
