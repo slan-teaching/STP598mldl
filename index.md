@@ -8,9 +8,8 @@ This course focuses on foundations of statistical learning and modern techniques
 
 * All the video recordings can now be found at `canvas -> zoom -> could recordings`.
 
-* Coding assignment 2 is available on mathds, due **11:59pm Friday Sept. 24, 2021**. Please do NOT modify notebook cells or change the filename!
+* Coding assignment 3 is available on mathds, due **11:59pm Wednesday Oct. 20, 2021**. Please do NOT modify notebook cells or change the filename!
 
-* Writtin assignment 2 is available on canvas, due **11:59pm Sunday Sept. 26, 2021**.
 
 ### Syllabus
 
