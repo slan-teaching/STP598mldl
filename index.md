@@ -49,8 +49,6 @@ This course focuses on foundations of statistical learning and modern techniques
 
 [Introduction to TensorFlow & PyTorch](https://github.com/slan-teaching/STP598mldl/tree/main/demos/Intro2TFPyTorch)
 
-[demo 4 (lect 7 & 8)](https://github.com/slan-teaching/STP598sta/blob/master/demos/STP598sta_timeseries.html)
-
 [lecture 9](https://github.com/slan-teaching/STP598sta/blob/master/lecture_notes/STP598sta_lecture9.pdf)
 
 [prediction_filter_smooth](https://github.com/slan-teaching/STP598sta/blob/master/demos/prediction_filter_smooth.R);  [MLE](https://github.com/slan-teaching/STP598sta/blob/master/demos/mle.R);  [Poisson-HMM](https://github.com/slan-teaching/STP598sta/blob/master/demos/PoissonHMM.R);  [BayesianStateSpace](https://github.com/slan-teaching/STP598sta/blob/master/demos/BayesStateSpace.R)
