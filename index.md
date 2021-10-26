@@ -47,7 +47,7 @@ This course focuses on foundations of statistical learning and modern techniques
 
 [demos dnn](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect7_dnn)
 
-[lecture 8](https://github.com/slan-teaching/STP598sta/blob/master/lecture_notes/STP598sta_lecture8.pdf)
+[Introduction to TensorFlow & PyTorch](https://github.com/slan-teaching/STP598mldl/tree/main/demos/Intro2TFPyTorch)
 
 [demo 4 (lect 7 & 8)](https://github.com/slan-teaching/STP598sta/blob/master/demos/STP598sta_timeseries.html)
 
