@@ -8,7 +8,9 @@ This course focuses on foundations of statistical learning and modern techniques
 
 * All the video recordings can now be found at `canvas -> zoom -> could recordings`.
 
-* Coding assignment 3 is available on mathds, due **11:59pm Wednesday Oct. 20, 2021**. Please do NOT modify notebook cells or change the filename!
+* Take-Home [midterm](https://github.com/slan-teaching/STP598mldl/tree/main/exams/midterm.pdf) is availabe on canvas, due **11:59pm Wednesday Nov. 10, 2021**.
+
+* Project proposal is avaialbe on canvas, due **11:59pm Sunday Nov. 7, 2021**.
 
 
 ### Syllabus
@@ -49,9 +51,9 @@ This course focuses on foundations of statistical learning and modern techniques
 
 [Introduction to TensorFlow & PyTorch](https://github.com/slan-teaching/STP598mldl/tree/main/demos/Intro2TFPyTorch)
 
-[lecture 9](https://github.com/slan-teaching/STP598sta/blob/master/lecture_notes/STP598sta_lecture9.pdf)
+[lecture 8](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect8cnn.pdf)
 
-[prediction_filter_smooth](https://github.com/slan-teaching/STP598sta/blob/master/demos/prediction_filter_smooth.R);  [MLE](https://github.com/slan-teaching/STP598sta/blob/master/demos/mle.R);  [Poisson-HMM](https://github.com/slan-teaching/STP598sta/blob/master/demos/PoissonHMM.R);  [BayesianStateSpace](https://github.com/slan-teaching/STP598sta/blob/master/demos/BayesStateSpace.R)
+[demos cnn](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect8_cnn)
 
 [lecture 10](https://github.com/slan-teaching/STP598sta/blob/master/lecture_notes/STP598sta_lecture10.pdf)
 
@@ -67,7 +69,7 @@ This course focuses on foundations of statistical learning and modern techniques
 
 ### Exam
 
-[Midterm](https://github.com/slan-teaching/STP598sta/blob/master/Project/Midterm.pdf)
+[Midterm](https://github.com/slan-teaching/STP598mldl/tree/main/exams/midterm.pdf)
 
 ### Final Project
 
