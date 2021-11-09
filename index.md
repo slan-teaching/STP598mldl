@@ -43,19 +43,21 @@ This course focuses on foundations of statistical learning and modern techniques
 
 [lecture 6](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect6gp.pdf)
 
-[demos gp](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect6_gp)
+[demos_gp](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect6_gp)
 
 [lecture 7](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect7dnn.pdf)
 
-[demos dnn](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect7_dnn)
+[demos_dnn](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect7_dnn)
 
 [Introduction to TensorFlow & PyTorch](https://github.com/slan-teaching/STP598mldl/tree/main/demos/Intro2TFPyTorch)
 
 [lecture 8](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect8cnn.pdf)
 
-[demos cnn](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect8_cnn)
+[demos_cnn](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect8_cnn)
 
-[lecture 10](https://github.com/slan-teaching/STP598sta/blob/master/lecture_notes/STP598sta_lecture10.pdf)
+[lecture 9](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect9rnn.pdf)
+
+[demos_rnn](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect9_rnn)
 
 ### Homework Assignments
 
