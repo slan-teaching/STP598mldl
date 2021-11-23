@@ -59,15 +59,13 @@ This course focuses on foundations of statistical learning and modern techniques
 
 [demos_rnn](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect9_rnn)
 
+[lecture 10](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect10aegan.pdf)
+
 ### Homework Assignments
 
 [Written 1](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written1.pdf).   [Notebook](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written1.ipynb)
 
 [Written 2](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written2.pdf).    [Notebook](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written2.ipynb)
-
-[Homework 3](https://github.com/slan-teaching/STP598sta/blob/master/Homework/STP598sta_hw3.pdf)
-
-[Homework 4](https://github.com/slan-teaching/STP598sta/blob/master/Homework/STP598sta_hw4.pdf)
 
 ### Exam
 
