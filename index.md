@@ -8,9 +8,7 @@ This course focuses on foundations of statistical learning and modern techniques
 
 * All the video recordings can now be found at `canvas -> zoom -> could recordings`.
 
-* Take-Home [midterm](https://github.com/slan-teaching/STP598mldl/tree/main/exams/midterm.pdf) is availabe on canvas, due **11:59pm Wednesday Nov. 10, 2021**.
-
-* Project proposal is avaialbe on canvas, due **11:59pm Sunday Nov. 7, 2021**.
+* The [final project report](https://github.com/slan-teaching/STP598mldl/blob/main/exams/final.pdf) is due **11:59pm Friday Dec. 10, 2021** on canvas.
 
 
 ### Syllabus
@@ -73,4 +71,4 @@ This course focuses on foundations of statistical learning and modern techniques
 
 ### Final Project
 
-[Final](https://github.com/slan-teaching/STP598sta/blob/master/Project/Final.pdf)
+[Final](https://github.com/slan-teaching/STP598mldl/blob/main/exams/final.pdf)
