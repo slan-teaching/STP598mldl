@@ -1,2 +1,2 @@
 # STP598mldl
-Machine Learning and Deep Learning - ASU 2021fall
+Machine Learning and Deep Learning - @ ASU, Fall 2023
