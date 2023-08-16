@@ -4,11 +4,9 @@ This course focuses on foundations of statistical learning and modern techniques
 
 ### Announcements:
 
-* Welcome! Masks are required in classroom. If you cannot attend in person for some reason, use the [zoom](https://asu.zoom.us/j/85457478422?pwd=cE1JTmxHMlNmT05xNGNUby9vcGswQT09).
+* Welcome! If you want to go to office hours online, use the [zoom](https://asu.zoom.us/j/8055899886).
 
-* All the video recordings can now be found at `canvas -> zoom -> could recordings`.
-
-* The [final project report](https://github.com/slan-teaching/STP598mldl/blob/main/exams/final.pdf) is due **11:59pm Friday Dec. 10, 2021** on canvas.
+* Please go to [canvas](https://canvas.asu.edu/courses/161506) to submit written assignments and [NBGrader](https://mathds.asu.edu/services/stp598_98417/formgrader) for coding assignments. This [document](https://github.com/slan-teaching/STP598mldl/blob/main/nbgrader_jupyterhub_student_user_guide.pdf) might help for new users of NBGrader.
 
 
 ### Syllabus
