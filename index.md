@@ -1,4 +1,4 @@
-## Welcome to STP 598 Machine Learning \& Deep Learning 
+## Welcome to STP 598 Machine Learning & Deep Learning 
 
 This course focuses on foundations of statistical learning and modern techniques in deep learning. The topics will cover (penalized) linear regression, generalized linear regression, classification and clustering, Gaussian process, Deep neural networks, convolutional neural networks, recurrent neural networks, and auto-encoders, etc.
 
