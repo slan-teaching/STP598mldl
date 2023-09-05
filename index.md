@@ -10,6 +10,8 @@ This course focuses on foundations of statistical learning and modern techniques
 
 * Coding1 assignment is available on [NBGrader](mathds.asu.edu) with deadline **11:59pm Friday 9/8/2023**.
 
+* [Written1](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written1.pdf) assignment is avaialbe on [canvas](https://canvas.asu.edu/courses/161506) due **11:59pm Friday 9/15/2023**.
+
 ### Syllabus
 
 [syllabus](https://github.com/slan-teaching/STP598mldl/blob/main/syllabus_STP598mldl.pdf)
