@@ -12,6 +12,8 @@ This course focuses on foundations of statistical learning and modern techniques
 
 * [Written3](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written3.pdf) assignment is avaialbe on [canvas](https://canvas.asu.edu/courses/161506) due **11:59pm Friday 10/27/2023**.
 
+* [Final Project](https://github.com/slan-teaching/STP598mldl/blob/main/exams/STP598MLDL_final.pdf) is available. Please pay attention to the deadlines.
+
 ### Syllabus
 
 [syllabus](https://github.com/slan-teaching/STP598mldl/blob/main/syllabus_STP598mldl.pdf)
@@ -74,4 +76,4 @@ This course focuses on foundations of statistical learning and modern techniques
 
 ### Final Project
 
-[Final](https://github.com/slan-teaching/STP598mldl/blob/main/exams/final.pdf)
+[Final](https://github.com/slan-teaching/STP598mldl/blob/main/exams/STP598MLDL_final.pdf)
