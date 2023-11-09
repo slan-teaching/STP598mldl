@@ -62,6 +62,12 @@ This course focuses on foundations of statistical learning and modern techniques
 
 [lecture 10](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect10aegan.pdf)
 
+[demos_ae](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect10_ae)
+
+[lecture 11](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect11GAN_goodfellow.pdf)
+
+[demos_gan](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect11_gan)
+
 ### Homework Assignments
 
 [Written 1](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written1.pdf).   [Notebook](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written1.ipynb)
@@ -69,6 +75,8 @@ This course focuses on foundations of statistical learning and modern techniques
 [Written 2](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written2.pdf).    [Notebook](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written2.ipynb)
 
 [Written 3](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written3.pdf).    [Notebook](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written3.ipynb)
+
+[Written 4](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written4.pdf).    [Notebook](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written4.ipynb)
 
 ### Exam
 
