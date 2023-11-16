@@ -68,6 +68,10 @@ This course focuses on foundations of statistical learning and modern techniques
 
 [demos_gan](https://github.com/slan-teaching/STP598mldl/tree/main/demos/lect11_gan)
 
+[lecture 12](https://github.com/slan-teaching/STP598mldl/blob/main/lecture_notes/STP598mldl_lect12trainNN.pdf)
+
+[pytorch-optimizer](https://github.com/jettify/pytorch-optimizer)
+
 ### Homework Assignments
 
 [Written 1](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written1.pdf).   [Notebook](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written1.ipynb)
