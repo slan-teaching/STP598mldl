@@ -10,9 +10,9 @@ This course focuses on foundations of statistical learning and modern techniques
 
 * Take-home midterm is available on [canvas](https://canvas.asu.edu/courses/161506) with deadline **11:59pm Friday 10/20/2023**.
 
-* [Written3](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written3.pdf) assignment is avaialbe on [canvas](https://canvas.asu.edu/courses/161506) due **11:59pm Friday 10/27/2023**.
-
 * [Final Project](https://github.com/slan-teaching/STP598mldl/blob/main/exams/STP598MLDL_final.pdf) is available. Please pay attention to the deadlines.
+
+* [Written5](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written5.pdf) assignment is avaialbe on [canvas](https://canvas.asu.edu/courses/161506) due **11:59pm Friday 12/01/2023**.
 
 ### Syllabus
 
@@ -81,6 +81,8 @@ This course focuses on foundations of statistical learning and modern techniques
 [Written 3](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written3.pdf).    [Notebook](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written3.ipynb)
 
 [Written 4](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written4.pdf).    [Notebook](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written4.ipynb)
+
+[Written 5](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written5.pdf).    [Notebook](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written5.ipynb)
 
 ### Exam
 
