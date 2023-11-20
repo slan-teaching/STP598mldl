@@ -83,7 +83,7 @@ This course focuses on foundations of statistical learning and modern techniques
 [Written 4](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written4.pdf).    [Notebook](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written4.ipynb)
 
 [Written 5](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written5.pdf).    [Notebook](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written5.ipynb)
-
+    [Dataset](https://github.com/slan-teaching/STP598mldl/blob/main/homework/digit-recognizer.zip)
 ### Exam
 
 [Midterm](https://github.com/slan-teaching/STP598mldl/tree/main/exams/midterm.pdf)
