@@ -91,3 +91,5 @@ This course focuses on foundations of statistical learning and modern techniques
 ### Final Project
 
 [Final](https://github.com/slan-teaching/STP598mldl/blob/main/exams/STP598MLDL_final.pdf)
+
+[Template report](https://github.com/slan-teaching/STP598mldl/blob/main/exams/template_final_report.pdf)
