@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ignore particular folders
+**/data
+**/result
+**/doc
+doc*
