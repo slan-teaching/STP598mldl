@@ -8,11 +8,12 @@ This course focuses on foundations of statistical learning and modern techniques
 
 * Please go to [canvas](https://canvas.asu.edu/courses/198755) to submit written assignments and [NBGrader](https://mathds.asu.edu/services/stp598_82712/formgrader) for coding assignments. This [document](https://github.com/slan-teaching/STP598mldl/blob/main/nbgrader_jupyterhub_student_user_guide.pdf) might help for new users of NBGrader.
 
-* Coding assignment 1 is avaiable at [NBGrader](https://mathds.asu.edu/services/stp598_82712/formgrader) due **11:59pm Sunday 09/15/2024**.
+<!-- * Coding assignment 1 is avaiable at [NBGrader](https://mathds.asu.edu/services/stp598_82712/formgrader) due **11:59pm Sunday 09/15/2024**. -->
+
+* Written assignement 1 [Written1](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written1.pdf) is avaialbe on [canvas](https://canvas.asu.edu/courses/198755) due **11:59pm Sunday 09/22/2024**.
 
 <!-- * [Final Project](https://github.com/slan-teaching/STP598mldl/blob/main/exams/STP598MLDL_final.pdf) is available. Please pay attention to the deadlines. -->
 
-<!-- * [Written5](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written5.pdf) assignment is avaialbe on [canvas](https://canvas.asu.edu/courses/161506) due **11:59pm Friday 12/01/2023**. -->
 
 ### Syllabus
 
