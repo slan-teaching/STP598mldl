@@ -10,7 +10,7 @@ This course focuses on foundations of statistical learning and modern techniques
 
 * Coding assignment 4 is avaiable at [NBGrader](https://mathds.asu.edu/services/stp598_82712/formgrader) due **11:59pm Friday 11/08/2024**.
 
- * Written assignement 3 [Written1](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written3.pdf) is avaialbe on [canvas](https://canvas.asu.edu/courses/198755) due **11:59pm Sunday 11/10/2024**. -
+ * Written assignement 4 [Written1](https://github.com/slan-teaching/STP598mldl/blob/main/homework/STP598mldl_written4.pdf) is avaialbe on [canvas](https://canvas.asu.edu/courses/198755) due **11:59pm Friday 11/22/2024**. -
 
 <!-- * [Midterm Exam (take-home)](https://github.com/slan-teaching/STP598mldl/blob/main/exams/STP598MLDL_midterm.pdf) is available. Please submit it to canvas before **11:59pm Friday 10/25/2024**. ->
 
